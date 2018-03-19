@@ -1,4 +1,5 @@
 # ignore specific themes
+wp-content/themes/twenty*/
 wp-content/themes/twentyfifteen/
 wp-content/themes/twentyseventeen/
 wp-content/themes/twentysixteen/
